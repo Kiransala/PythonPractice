@@ -1,3 +1,4 @@
+#To clear the screen use clear function of your ide or uncomment the clear code and run this on replit
 import random
 #from replit import clear
 logo = """
